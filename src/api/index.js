@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const url = 'https://gmail-clone-electron.onrender.com';
+const url = 'https://emailclonebackend.onrender.com';
 const headers = (token) => ({
   headers: {
     'Content-Type': 'application/json',
