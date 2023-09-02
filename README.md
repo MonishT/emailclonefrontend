@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+# gmail-clone-electron-frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Scripts :
 
-## Available Scripts
+✅To build desktop app(exe application): npm run electron:build  (or) yarn electron:build
 
-In the project directory, you can run:
+✅To execute desktop app in test mode  : npm run electron:serve  (or) yarn electron:serve
 
-### `npm start`
+✅To build react app : npm run build
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+✅To run react app : npm run start
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+Desktop App uploaded in google drive due to stroage limitations in github:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+⬇️⬇️⬇️⬇️Link⬇️⬇️⬇️⬇️
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+🔗https://drive.google.com/file/d/1-yis4E0_tFdtoTrLxaEPoWHFGcI4L9F9/view?usp=share_link
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Output ScreenShots:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Desktop App Installation
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![Installing Desktop App](https://user-images.githubusercontent.com/92617395/211144487-32ae0cb0-14b7-4953-afef-a24da06247f2.png)
 
-## Learn More
+App HOME PAGE
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![desktop app homepage](https://user-images.githubusercontent.com/92617395/211144521-e13dcafc-43ec-43de-a1ef-7f71f3912f7b.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+After Login
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![desktop app after login](https://user-images.githubusercontent.com/92617395/211144518-d6199b02-b4eb-4eba-9ffa-67bfaea7b4fd.png)
